@@ -39,7 +39,7 @@ Random Forest achieved the **highest accuracy**.
 
 These tools ensure transparency in the ML model, making it suitable for healthcare applications.  
 
-## 🖥 How to Run the Project  
+##  How to Run the Project  
 
 ### 1. Clone the Repository  
 git clone https://github.com/your-username/cancer-diagnosis-shap-lime.git
